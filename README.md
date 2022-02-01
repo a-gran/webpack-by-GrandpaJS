@@ -1,4 +1,4 @@
-# Webpack template
+# Webpack template by GrandpaJS
 Basic configuration of Webpack.
 
 ## Technologies
